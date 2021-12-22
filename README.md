@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafayethossain
+- 👋 Hi, I’m Rafayet Hossain
 - 👀 I’m interested in Business System Analyis, SQA, and Writing  
 - 🌱 I’m currently learning ... Business Anlysis
 - 💞️ I’m looking to collaborate on ...
