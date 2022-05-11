@@ -2,7 +2,7 @@
 
 
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Certified+Lean+Six+Sigma+Black+Belt;Experience+Business+Analyst;Professional+SQA+and+Writer+"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=04%2B+Years+Business+Analysis+Experience;Certified+Lean+Six+Sigma+Black+Belt;Professional+SQA+and+Writer+"></a>
 </p>
 
   
