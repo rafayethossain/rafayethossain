@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Rafayet Hossain
-- 👀 I’m interested in Business System Analyis, SQA, and Writing  
-- 🌱 I’m currently learning Continuous improvement
-- 💞️ I’m looking to collaborate with any business IT project 
-- 📫 Reach me at
+- 👋 Hi, This is Rafayet Hossain
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Certified+Lean+Six+Sigma+Black+Belt;Experience+Business+Analyst;Professional+SQA+and+Writer+)](https://git.io/typing-svg)
+
+- 📫 Reach him at
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayet13/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
 
