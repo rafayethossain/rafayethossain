@@ -1,6 +1,9 @@
-- 👋 Hi, This is Rafayet Hossain
+👋 Hi, This is  <h1> Rafayet Hossain </h>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Certified+Lean+Six+Sigma+Black+Belt;Experience+Business+Analyst;Professional+SQA+and+Writer+)](https://git.io/typing-svg)
+<p>
+(https://readme-typing-svg.herokuapp.com?lines=Certified+Lean+Six+Sigma+Black+Belt;Experience+Business+Analyst;Professional+SQA+and+Writer+)](https://git.io/typing-svg)
+  </p>
+  
 
 - 📫 Reach him at
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayet13/)
