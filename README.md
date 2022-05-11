@@ -1,7 +1,7 @@
 👋 Hi, This is  <h1> Rafayet Hossain </h>
 
 <p>
-(https://readme-typing-svg.herokuapp.com?lines=Certified+Lean+Six+Sigma+Black+Belt;Experience+Business+Analyst;Professional+SQA+and+Writer+)](https://git.io/typing-svg)
+<a href="(https://readme-typing-svg.herokuapp.com?lines=Certified+Lean+Six+Sigma+Black+Belt;Experience+Business+Analyst;Professional+SQA+and+Writer+)](https://git.io/typing-svg)"> </a>
   </p>
   
 
