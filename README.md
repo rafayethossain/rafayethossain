@@ -1,11 +1,15 @@
 👋 Hi, This is  <h1> Rafayet Hossain </h>
 
+
 <p>
-<a href="(https://readme-typing-svg.herokuapp.com?lines=Certified+Lean+Six+Sigma+Black+Belt;Experience+Business+Analyst;Professional+SQA+and+Writer+)](https://git.io/typing-svg)"> </a>
-  </p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Certified+Lean+Six+Sigma+Black+Belt;Experience+Business+Analyst;Professional+SQA+and+Writer+"></a>
+</p>
+
+  
+  
   
 
-- 📫 Reach him at
+- 📫 Reach him at:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayet13/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
 
