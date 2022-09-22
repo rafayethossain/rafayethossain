@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=04%2B+Years+Business+Analysis+Experience;Certified+Lean+Six+Sigma+Black+Belt;Professional+SQA+and+Writer+"></a>
 </p>
 
-- 👀 He is Interested in  <h4> Business System Analyis, SQA, and Writing  </h4>
+- 👀 He is Interested in  <h4> Business System Analysis, SQA, and Writing  </h4>
 - 🌱 He is Currently Learning <h4> Continuous improvement Process </h4>
 - 💞️ He is Looking for <h4> Collaborating With Any Business IT Project </h3>
 - 📫 Reach him at:
