@@ -1,6 +1,6 @@
 - 👋 Hi, This is  <h1> Rafayet Hossain </h1>
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=04%2B+Years+Business+Analysis+Experience;Certified+Lean+Six+Sigma+Black+Belt;Professional+SQA+and+Writer+"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=05%2B+Years+Business+Analysis+Experience;Certified+Lean+Six+Sigma+Black+Belt;Professional+SQA+and+Writer+"></a>
 </p>
 
 - 👀 He is Interested in  <h4> Business System Analysis, SQA, and Writing  </h4>
